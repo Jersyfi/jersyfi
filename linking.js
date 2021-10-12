@@ -5,7 +5,7 @@ var text = {
     },
     de: {
         header: '%cErstellt mit Laravel & %c❤ %cvon Jersyfi',
-        body: '%cBesuche https://jersyfi.de oder https://github.com/Jersyfi um mehr ünformationen über mich und meine Arbeit zu bekommen'
+        body: '%cBesuche https://jersyfi.de oder https://github.com/Jersyfi um mehr Informationen über mich und meine Arbeit zu bekommen'
     },
     no: {
         header: '%cCreated with Laravel & %c❤ %cav Jersyfi',
