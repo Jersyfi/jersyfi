@@ -4,11 +4,11 @@ var text = {
         body: '%cFor more information about me and my work visit https://jersyfi.de or https://github.com/Jersyfi'
     },
     de: {
-        header: '%cErstellt mit Laravel & %c❤ %c von Jersyfi',
+        header: '%cErstellt mit Laravel & %c❤ %cvon Jersyfi',
         body: '%cBesuche https://jersyfi.de oder https://github.com/Jersyfi um mehr ünformationen über mich und meine Arbeit zu bekommen'
     },
     no: {
-        header: '%cCreated with Laravel & %c❤ %c av Jersyfi',
+        header: '%cCreated with Laravel & %c❤ %cav Jersyfi',
         body: '%cBesøk https://jersyfi.de eller https://github.com/Jersyfi for å få mer informasjon om meg og arbedet mitt'
     }
 }
