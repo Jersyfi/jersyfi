@@ -5,3 +5,4 @@ import '../scss/index.scss'
 
 // Custom files
 require('./test.js')
+require('./linking.js')
