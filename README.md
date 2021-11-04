@@ -11,6 +11,7 @@ const profile = [
             'HTML'
         ],
         'uncommon' => [
+            'Java',
             'C',
             'C++',
             'C#'
