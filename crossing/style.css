@@ -1,0 +1,61 @@
+.cover {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+.cover-inner-img {
+    height: 180px;
+    pointer-events: none;
+    transform: rotate(-10deg) translate(-120px, -20px);
+}
+
+.cover-img {
+    position: absolute;
+    pointer-events: none;
+    object-fit: cover;
+    z-index: -1;
+    filter: opacity(0.8);
+}
+
+.cover-gradient {
+    position: absolute;
+    z-index: -1;
+    background: linear-gradient(214deg, #5e0809, #d41c23, #000000);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 13s ease infinite;
+    animation: AnimationName 8s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 51%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 51%}
+}
+
+.wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    vertical-align: middle;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff8f;
+    pointer-events: none;
+}
+
+@media (max-width: 767.98px) {
+    .cover-inner-img {
+        height: 120px;
+        transform: rotate(-10deg) translate(0, -20px);
+    }
+}
