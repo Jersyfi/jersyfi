@@ -13,18 +13,22 @@ var text = {
     }
 }
 
-switch (navigator.language) {
-    case 'de':
-        loadText = text.de
-        break;
+const langContains = (lang) => {
+    return navigator.language.includes(lang)
+}
 
-    case 'no':
+switch (true) {
+    case langContains('de'):
+        loadText = text.de
+        break
+
+    case langContains('no'):
         loadText = text.no
-        break;
+        break
 
     default:
         loadText = text.en
-        break;
+        break
 }
 
 console.log(loadText.header, 'color: blue; font-size: 28px;', 'color: red; font-size: 28px;', 'color: blue; font-size: 28px;')
