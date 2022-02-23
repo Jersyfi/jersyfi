@@ -2,12 +2,19 @@
     position: relative;
     height: 100vh;
     width: 100vw;
+    pointer-events: none;
+}
+
+.cover-inner {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
 }
 
 .cover-inner-img {
-    height: 180px;
+    height: 140px;
     pointer-events: none;
-    transform: rotate(-10deg) translate(-120px, -20px);
+    transform: translate(210px, -20px) rotate(-5deg);
 }
 
 .cover-img {
@@ -26,6 +33,15 @@
 
     -webkit-animation: AnimationName 13s ease infinite;
     animation: AnimationName 8s ease infinite;
+}
+
+.progress {
+    background-color: #e9ecef29;
+}
+
+.progress-bar {
+    color: #fff;
+    background-color: #83110F;
 }
 
 @-webkit-keyframes AnimationName {
