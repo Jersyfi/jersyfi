@@ -11,7 +11,7 @@ const profile = [
         'common' => [
             'PHP' => ['Laravel', 'Livewire'],
             'JavaScript' => ['alpinejs', 'react', 'Next.js'],
-            'CSS & HTML' => ['Bootstrap']
+            'CSS & HTML' => ['Bootstrap', 'Tailwind CSS']
         ],
         'uncommon' => [
             'Java', 'C', 'C++', 'C#'
