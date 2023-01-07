@@ -19,13 +19,3 @@ const profile = [
      ]
 ]
 ```
-
-## Useful Repositorys
-
-### 1. Cookify
-Simple cookie consent manager for all scripts, img & iframes with tracking possibility in pure javascript.\
-[Show me the package...](https://github.com/Jersyfi/Cookify)
-
-### 2. element-animation
-Prop actions for example falling snow or leaves or just moving props or elements with mousemove in pure javascript.\
-[Show me the package...](https://github.com/Jersyfi/element-animation)
