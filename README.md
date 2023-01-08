@@ -10,7 +10,7 @@ const profile = [
     languages = [
         'common' => [
             'PHP' => ['Laravel', 'Livewire'],
-            'JavaScript' => ['alpinejs', 'react', 'Next.js'],
+            'JavaScript' => ['TypeScript', 'Alpine.js', 'React', 'Next.js'],
             'CSS & HTML' => ['Bootstrap', 'Tailwind CSS']
         ],
         'uncommon' => [
