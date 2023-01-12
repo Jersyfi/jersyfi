@@ -21,5 +21,5 @@ const profile = [
 ```
 
 ## GitHub Stats
-[![Jersyfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jersyfi)](https://github.com/anuraghazra/github-readme-stats)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jersyfi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jersyfi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jersyfi)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jersyfi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
