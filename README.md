@@ -2,6 +2,10 @@
 
 Let's start with a bit of fun before getting into serious stuff. Are you better then me in beating the score of `+0.04`? Try it out [here](https://jersyfi.github.io/Cherish-the-time/) and **Cherish the time**.
 
+If you liked my projects and would like me to spend more time on them, please feel free to support me on Ko-Fi.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8HXXHG)
+
 ## What programming languages do i know? 
 
 ```javascript
