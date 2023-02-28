@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" src="https://user-images.githubusercontent.com/64214261/221967392-c9d337d6-7c7d-4cc0-baf9-4f8c1c76384a.svg">
+</p>
+
 # Hello there 👋
 
 Let's start with a bit of fun before getting into serious stuff. Are you better then me in beating the score of `+0.04`? Try it out [here](https://jersyfi.github.io/Cherish-the-time/) and **Cherish the time**.
